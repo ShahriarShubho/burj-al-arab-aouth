@@ -1,0 +1,33 @@
+.formStyle{
+    text-align: center;
+    background-color: lightgray;
+    border-radius: 20px;
+    padding: 16px;
+    margin-top: 30px;
+}
+.submitButton{
+    width: 100%;
+    background-color: deepskyblue;
+    border-radius: 12px;
+    border: blue;
+    margin-top: 10px;
+}
+.inputFiled{
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.newAccount{
+    font-size: 22px;
+    color: green;
+    font-weight: 700;
+    padding: 10px;
+}
+.newAccount label {
+    margin-left: 10px;
+}
+.login{
+    width:350px !important;
+    margin-bottom: 200px;
+}
